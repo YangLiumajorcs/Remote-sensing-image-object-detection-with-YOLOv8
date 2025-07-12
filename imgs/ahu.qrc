@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>ahu.jpg</file>
+    <file>camera.png</file>
+    <file>picture.png</file>
+    <file>video.png</file>
+  </qresource>
+</RCC>
